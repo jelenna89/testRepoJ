@@ -6,8 +6,8 @@ public class Test {
 	String string3="JelenaStoj..";
 	
 	
-	public static void main(String [] args) {
-		System.out.println("Hello");
-	}
+
+	String konflikt="KOnflikt";
+
 	
 }
