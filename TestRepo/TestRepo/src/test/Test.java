@@ -3,7 +3,7 @@ package test;
 public class Test {
 
 	String string="Jelena";
-	String string3="Jel";
+	String string3="JelenaStoj..";
 	
 	
 	public static void main(String [] args) {
