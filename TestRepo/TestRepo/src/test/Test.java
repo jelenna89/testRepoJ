@@ -12,7 +12,7 @@ public class Test {
 
 	
 	private boolean isOdd() {
-		if (num / 2 == 0) {
+		if (num / 5 == 0) {
 			return false;
 		} else {
 			return true;
