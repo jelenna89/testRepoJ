@@ -4,9 +4,9 @@ public class Test {
 
 	
 	private int num = 13;
-	String string3="JelenaStoj..";
+	String sing3="JelenaStoj..";
 
-	String cveceDrvece = "Drvece je sareno";
+	String cvesdfdsfceDrvece = "Drvece je sareno";
 
 
 	String konflikt="je";
