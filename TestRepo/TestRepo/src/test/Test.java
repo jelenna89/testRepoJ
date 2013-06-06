@@ -8,7 +8,6 @@ public class Test {
 
 	String cveceDrvece = "Drvece je sareno";
 
-
 	String konflikt="KOnflikt";
 
 	
